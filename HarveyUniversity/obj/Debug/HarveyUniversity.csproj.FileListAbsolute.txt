@@ -1,0 +1,12 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\obj\Debug\HarveyUniversity.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\obj\Debug\HarveyUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\bin\Debug\HarveyUniversity.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\bin\Debug\HarveyUniversity.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\bin\Debug\HarveyUniversity.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\bin\Debug\EntityFramework.dll
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\bin\Debug\EntityFramework.xml
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\obj\Debug\HarveyUniversity.csproj.CopyComplete
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\obj\Debug\HarveyUniversity.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\HarveyUniversity\obj\Debug\HarveyUniversity.pdb
